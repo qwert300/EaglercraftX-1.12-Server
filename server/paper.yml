@@ -13,7 +13,7 @@ verbose: false
 config-version: 13
 settings:
   load-permissions-yml-before-plugins: true
-  bungee-online-mode: true
+  bungee-online-mode: false
   sleep-between-chunk-saves: false
   region-file-cache-size: 256
   save-empty-scoreboard-teams: false
